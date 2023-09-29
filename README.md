@@ -6,4 +6,4 @@ Optimized for mobile- and tablet -devices!
 
 Media queries for mobile devices and iPads
 Website live on test-environment:
-https://julmezha.github.io/ref-site-concept/
+[https://0xjulius.github.io/ref-site-concept/](https://0xjulius.github.io/ref-site-concept/)https://0xjulius.github.io/ref-site-concept/
